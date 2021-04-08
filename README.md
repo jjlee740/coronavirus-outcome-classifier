@@ -28,6 +28,6 @@ python3 random_forest_model.py
 Predictive classifiers are built from training data (and generally large datasets) and are used to predict data without a determined outcome. In the case of this repository, this predictive classifier is a random forest classifier that is used to predict the outcome of patients infected with COVID-19. Choosing the appropriate classifier may be confusing with the multitude of possible classifiers to choose between. In this case, the main reasons I have chosen the random forest classifier is due to its efficiency in classifying large databases, the ability to handle a variety of input variables, has an effective method for estimating missing data and is generally robustness to outliers and noise. However, the main disadvantage of the random forest classifier is due to it’s time in computing the classifier, but due to the efficiency of sklearn’s random forest implementation and the careful preprocessing of data, the classifier is able to be built in a very reasonable time.
 
 To find the most up to date datasets on coronavirus: 
-https://github.com/beoutbreakprepared/nCoV2019
 
+https://github.com/beoutbreakprepared/nCoV2019
 https://github.com/CSSEGISandData/COVID-19
