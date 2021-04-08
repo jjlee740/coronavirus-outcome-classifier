@@ -2,7 +2,7 @@
 
 A predictive classifier built with the help of sckit-learn's random forest algorithm. 
 
-[Learn more about Random Forests](https://en.wikipedia.org/wiki/Random_forest#:~:text=Random%20forests%20or%20random%20decision,average%20prediction%20(regression)%20of%20the)
+[Learn more about Random Forests.](https://en.wikipedia.org/wiki/Random_forest#:~:text=Random%20forests%20or%20random%20decision,average%20prediction%20(regression)%20of%20the)
 
 ## Installation
 
@@ -30,4 +30,5 @@ Predictive classifiers are built from training data (and generally large dataset
 To find the most up to date datasets on coronavirus: 
 
 https://github.com/beoutbreakprepared/nCoV2019
+
 https://github.com/CSSEGISandData/COVID-19
