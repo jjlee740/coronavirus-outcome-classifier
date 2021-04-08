@@ -1,0 +1,149 @@
+EDA Statistics 
+
+Case Data - Number of missing values for each attribute: 
+Age : 209265
+Sex : 207084
+Province : 4106
+Country : 18
+Latitude : 2
+Longitude : 2
+Date Confirmation : 288
+Additional Information : 344912
+Source : 128478
+Outcome : 0
+
+Location Data - Number of missing values for each attribute: 
+Province State : 168
+Country Region : 0
+Last Update : 0
+Latitude : 80
+Longitude : 80
+Confirmed : 0
+Deaths : 0
+Recovered : 0
+Active : 2
+Combined Key : 0
+Incidence Rate : 80
+Case-Fatality Ratio : 48
+Outcome by gender: 
+Number of male recovered:  : 2662
+Number of male hospitalized:  : 12581
+Number of male nonhospitalized:  : 72675
+Number of male recovered:  : 2255
+Number of male hospitalized:  : 6564
+Number of male nonhospitalized:  : 62695
+
+Top 10 Counteries with the highest number of cases 
+India : 212411
+Peru : 57305
+Germany : 33009
+Philippines : 11521
+Colombia : 11464
+Argentina : 7948
+Mexico : 5149
+Belgium : 5145
+United Kingdom : 4289
+Czech Republic : 3381
+
+Top 10 Counteries with the lowest number of cases 
+Cambodia : 1
+Armenia : 1
+Iceland : 1
+San Marino : 1
+Qatar : 1
+Luxembourg : 1
+Reunion : 1
+Azerbaijan : 1
+Kosovo : 1
+Central African Republic : 1
+
+Number of new cases by month 
+Month 1.0 : 16562
+Month 2.0 : 8644
+Month 3.0 : 33084
+Month 4.0 : 57200
+Month 5.0 : 190310
+Month 6.0 : 9879
+Month 7.0 : 9007
+Month 8.0 : 7714
+Month 9.0 : 8246
+Month 10.0 : 8906
+Month 11.0 : 8772
+Month 12.0 : 8938
+
+Age group with the most cases: 
+1. Ages 30-40
+2. Ages 50-60
+3. Ages 70-80
+
+Top 10 Country Regions with the highest number of confirmed cases 
+US : 6764970
+India : 5308014
+Brazil : 4528240
+Russia : 1092915
+Colombia : 758398
+Peru : 756412
+Mexico : 694121
+South Africa : 659656
+Spain : 640040
+Argentina : 622934
+
+Top 10 Country Regions with the highest number of deaths: 
+US : 199259
+Brazil : 136532
+India : 85619
+Mexico : 73258
+United Kingdom : 41848
+Italy : 35692
+Peru : 31283
+France : 31257
+Spain : 30495
+Iran : 24118
+
+Top 10 Country Regions with the highest number of active cases: 
+US : 3988245.0
+India : 1013964.0
+Spain : 459169.0
+Brazil : 454815.0
+United Kingdom : 348770.0
+France : 343374.0
+Russia : 170100.0
+Argentina : 132058.0
+Peru : 130616.0
+Colombia : 106674.0
+
+Top 10 Country Regions with the highest number of recovered: 
+India : 4208431
+Brazil : 3936893
+US : 2577446
+Russia : 903545
+Colombia : 627685
+Peru : 594513
+South Africa : 589434
+Mexico : 586154
+Argentina : 478077
+Chile : 418101
+
+Top 10 Country Provinces with the highest incidence rates: 
+US Georgia : 14871.183643531676
+US Arkansas : 14718.980343980344
+US Florida : 14604.606981714556
+US Tennessee : 14595.887982984756
+US Tennessee : 12414.481185860892
+US Arkansas : 11787.28689172406
+US Nebraska : 10686.10805952262
+US Iowa : 9892.966360856271
+US Arkansas : 9804.309152006326
+US Louisiana : 8952.181865691142
+
+Top 10 Country Provinces with the highest case fatality ratio: 
+US Puerto Rico : 108.81294964028775
+US Louisiana : 89.47368421052632
+US Arizona : 50.0
+US Rhode Island : 48.44167408726626
+Yemen   : 28.874629812438307
+US Texas : 28.57142857142857
+US Minnesota : 27.807486631016044
+US Nebraska : 27.272727272727277
+MS Zaandam   : 22.222222222222214
+US Maine : 19.17808219178082
